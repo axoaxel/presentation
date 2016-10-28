@@ -22,8 +22,8 @@ Software requirements and engineering
 
 # Electric cars
 - can be searched in a given range from 
-  -- current user's location
-  -- address
+  * current user's location
+  * address
   
 #HSLIDE
 
