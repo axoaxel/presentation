@@ -1,15 +1,30 @@
-# Flux 
+# PowerEnjoy
 
-An application architecture for React
-
-#HSLIDE
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Software requirements and engineering
 
 #HSLIDE
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Car sharing
+
+- Users
+- Electric cars
+- Power plugs
+- Safe areas
+
+#VSLIDE
+
+# Users
+- register
+- reserve cars
+- ride cars
+
+#VSLIDE
+
+# Electric cars
+- can be searched in a given range from 
+  -- current user's location
+  -- address
+  
+#HSLIDE
+
+# Thank you
