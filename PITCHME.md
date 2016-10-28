@@ -26,7 +26,7 @@ Software requirements and engineering
 
 # Electric cars
 
-![car](http://www.luccacitta.net/archivi/immagini/2014/A/auto-elettrica-simbolo-7644.jpg)
+![car](http://www.luccacitta.net/archivi/immagini/2014/A/auto-elettrica-simbolo-7644.jpg =100x80)
 
 - can be searched in a given range from 
   1. current user's location
