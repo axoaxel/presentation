@@ -34,4 +34,11 @@ Software requirements and engineering
   
 #HSLIDE
 
+## powered by:
+- Ale
+- Gippo
+- Luca
+
+#HSLIDE
+
 # Thank you
